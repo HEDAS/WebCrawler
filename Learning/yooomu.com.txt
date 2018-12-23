@@ -1,0 +1,207 @@
+0 https://www.yooomu.com/
+1 #
+2
+3 https://www.yooomu.com/about.html
+4 https://www.yooomu.com/feed/
+5 https://www.yooomu.com/feed/comments/
+6 https://www.yooomu.com/admin/login.php
+7 https://dl.0vo.moe
+8 https://status.0vo.moe
+9 https://pan.0vo.moe
+10 https://www.yooomu.com/category/VPS%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/
+11 https://www.yooomu.com/category/%E4%B8%9C%E6%96%B9Project/
+12 https://www.yooomu.com/category/Windows/
+13 https://www.yooomu.com/category/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/
+14 https://www.yooomu.com/category/Android%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%95/
+15 https://www.yooomu.com/category/C/
+16 https://www.yooomu.com/category/Python/
+17 https://www.yooomu.com/archive.html
+18 https://www.yooomu.com/169.html
+19 https://www.yooomu.com/links.html
+20 https://kirimasharo.com/
+21 https://2heng.xin/
+22 https://www.wikimoe.com/
+23 https://blog.qwq.moe/
+24 https://himiku.com/
+25 https://www.moerats.com
+26 https://lcblog.cn/
+27 https://blog.flxxyz.com/
+28 https://blog.lzh441.club/
+29 https://www.yyhy.me/
+30 https://www.myeriri.com
+31 https://www.yooomu.com/archives/175.html
+32 https://www.yooomu.com/author/1/
+33 https://www.yooomu.com/archives/175.html#comments
+34 https://www.yooomu.com/archives/174.html
+35 https://www.yooomu.com/archives/174.html#comments
+36 https://www.yooomu.com/archives/148.html
+37 https://www.yooomu.com/archives/148.html#comments
+38 https://www.yooomu.com/archives/144.html
+39 https://www.yooomu.com/archives/144.html#comments
+40 https://www.yooomu.com/archives/125.html
+41 https://www.yooomu.com/archives/125.html#comments
+42 https://www.yooomu.com/page/1/
+43 https://www.yooomu.com/page/2/
+44 https://www.yooomu.com/page/3/
+45 https://www.yooomu.com/page/4/
+46 https://www.yooomu.com/page/9/
+47 #widget-tabs-4-hots
+48 #widget-tabs-4-comments
+49 #widget-tabs-4-random
+50 https://www.yooomu.com/archives/10.html
+51 https://www.yooomu.com/archives/7.html
+52 https://www.yooomu.com/archives/58.html
+53 https://www.yooomu.com/archives/175.html/comment-page-1#comment-114
+54 https://www.yooomu.com/archives/148.html/comment-page-1#comment-113
+55 https://www.yooomu.com/archives/174.html/comment-page-1#comment-111
+56 https://www.yooomu.com/archives/148.html/comment-page-1#comment-110
+57 https://www.yooomu.com/archives/148.html/comment-page-1#comment-108
+58 https://www.yooomu.com/archives/25.html
+59 https://www.yooomu.com/archives/20.html
+60 https://www.yooomu.com/archives/8.html
+61 https://www.yooomu.com/archives/21.html
+62 https://www.yooomu.com/archives/104.html
+63 https://www.yooomu.com/tag/VPS/
+64 https://www.yooomu.com/tag/nginx/
+65 https://www.yooomu.com/tag/aria2/
+66 https://www.yooomu.com/tag/rss/
+67 https://www.yooomu.com/tag/%E7%99%BE%E5%BA%A6%E4%BA%91%E7%9B%98/
+68 https://www.yooomu.com/tag/cron/
+69 https://www.yooomu.com/tag/FFM/
+70 https://www.yooomu.com/tag/php/
+71 https://www.yooomu.com/tag/Android/
+72 https://www.yooomu.com/tag/Android-P/
+73 https://www.yooomu.com/tag/%E4%B8%9C%E6%96%B9Project/
+74 https://www.yooomu.com/tag/Python/
+75 https://www.yooomu.com/tag/typecho/
+76 https://www.yooomu.com/tag/%E9%9F%B3%E4%B9%90/
+77 https://www.yooomu.com/tag/%E4%B8%9C%E6%96%B9/
+78 https://www.yooomu.com/tag/h5ai/
+79 https://www.yooomu.com/tag/minecraft/
+80 https://www.yooomu.com/tag/vim/
+81 https://www.yooomu.com/tag/basic-auth/
+82 https://www.yooomu.com/tag/301%E9%87%8D%E5%AE%9A%E5%90%91/
+83 https://www.yooomu.com/tag/v2ray/
+84 https://www.yooomu.com/tag/arch/
+85 https://www.yooomu.com/tag/exif/
+86 https://www.yooomu.com/tag/steam/
+87 https://www.yooomu.com/tag/telegram/
+88 https://www.yooomu.com/tag/windows-search/
+89 https://www.yooomu.com/tag/Windows-10/
+90 https://www.yooomu.com/tag/%E4%BA%91%E7%AD%BE%E5%88%B0/
+91 https://www.yooomu.com/tag/%E5%88%A0%E5%BA%93/
+92 https://www.yooomu.com/tag/shell-script/
+93 http://www.miitbeian.gov.cn/
+94 https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
+95 https://yooomu.com/sitemap.xml
+96 http://www.typecho.org
+97 https://www.ihewro.com/archives/489/
+98 https://blog.imalan.cn/archives/95/
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
+99 https://www.yooomu.com/archives/16.html
+100 https://www.yooomu.com/archives/17.html
+101 https://www.yooomu.com/archives/11.html
+102 https://www.yooomu.com/archives/115.html
+103 #comments
+Mojo::Reactor::Poll: I/O watcher failed: Wide character in subroutine entry at E:/Software/Strawberry/perl/site/lib/Bloom/Filter.pm line 291.
+Mojo::Reactor::Poll: I/O watcher failed: Wide character in subroutine entry at E:/Software/Strawberry/perl/site/lib/Bloom/Filter.pm line 291.
+Mojo::Reactor::Poll: I/O watcher failed: Wide character in subroutine entry at E:/Software/Strawberry/perl/site/lib/Bloom/Filter.pm line 291.
+Mojo::Reactor::Poll: I/O watcher failed: Wide character in subroutine entry at E:/Software/Strawberry/perl/site/lib/Bloom/Filter.pm line 291.
+Mojo::Reactor::Poll: Timer failed: Connect timeout at Learning/tuicool.pl line 27.
